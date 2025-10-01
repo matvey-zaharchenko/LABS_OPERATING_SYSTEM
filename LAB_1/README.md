@@ -1,5 +1,3 @@
-# ФИО: Захарченко Матвей Андреевич 
-# Группа: М8О-211БВ-24
 ## Условие:
 <img width="712" height="443" alt="image" src="https://github.com/user-attachments/assets/2b71ebdb-4f66-4f72-92e6-bbd76fa8a2d2" />  
 
