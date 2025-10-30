@@ -1,7 +1,7 @@
-all: parent.out child.out
+all: parent child
 
 parent: parent.c 
-	gcc parent.c -o parent.out
+	gcc parent.c -o parent
 
 child: child.c 
-	gcc child.c -o child.out
+	gcc child.c -o child

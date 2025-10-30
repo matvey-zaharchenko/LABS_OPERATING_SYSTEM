@@ -102,7 +102,7 @@ int main(int argc, char **argv) {
                     count = 0;
                     outputString[0] = '\0';
                     compare(outputString, result1, result2);
-                    write(STDOUT_FILENO, outputString, strlen(outputString));
+                    write(STDOUT_FILENO, outputString, strlen(outputString));//
                 } else if(count < 3 && buf[i] == '\n'){
                     const char msg[] = "error: in line must be 3 numbers\n";
                     write(STDERR_FILENO, msg, sizeof(msg));
